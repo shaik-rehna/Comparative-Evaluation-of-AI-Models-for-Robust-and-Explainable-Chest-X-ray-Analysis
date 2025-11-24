@@ -1,1 +1,1 @@
-* This folder contains code
+* This folder contains the ipynb code files 
