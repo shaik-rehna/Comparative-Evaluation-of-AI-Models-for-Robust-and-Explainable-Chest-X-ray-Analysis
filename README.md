@@ -30,9 +30,9 @@ $\text{UCES} = \alpha C + (1 - \alpha) E, \quad \alpha = 0.7$
 UCES provides a principled, single-value indicator for selecting models that are both **accurate and clinically interpretable**.
 
 ---
-# Results:
+## Results:
 
-## **1. In-Distribution (CheXpert) Results**
+### **1. In-Distribution (CheXpert) Results**
 
 **Mean ± Std across 3 seeds**
 
@@ -44,7 +44,7 @@ UCES provides a principled, single-value indicator for selecting models that are
 | **ConvNeXt-Tiny** | **0.831 ± 0.008** | 0.559 ± 0.023 | 0.455 ± 0.004     | **0.512 ± 0.005** |
 
 
-## ** 2. Out-of-Distribution (NIH) Results**
+### **2. Out-of-Distribution (NIH) Results**
 
 **Mean ± Std across 3 seeds**
 
@@ -56,7 +56,7 @@ UCES provides a principled, single-value indicator for selecting models that are
 | **ConvNeXt-Tiny** | **0.784 ± 0.020** | **0.274 ± 0.009** | **0.229 ± 0.010** | **0.329 ± 0.006** |
 
 
-## ** 3. Explainability Evaluation (Grad-CAM, CheXlocalize Dataset)**
+### **3. Explainability Evaluation (Grad-CAM, CheXlocalize Dataset)**
 
 **Mean ± Std across 3 seeds**
 
@@ -68,7 +68,7 @@ UCES provides a principled, single-value indicator for selecting models that are
 | **ConvNeXt-Tiny** | 0.2004 ± 0.2965 | **0.385 ± 0.6106** | **9.624 ± 0.028** | **0.410 ± 0.0012** | 7.30 ± 1.12 | 7.11 ± 1.07 |
 
 
-## ** 4. Unified Classification–Explainability Score (UCES)**
+### **4. Unified Classification–Explainability Score (UCES)**
 
 **For α = 0.7**
 
@@ -81,7 +81,7 @@ UCES provides a principled, single-value indicator for selecting models that are
 
 
 
-# **Key Findings**
+## **Key Findings**
 * **ConvNeXt-Tiny** consistently achieves the **highest UCES**, outperforming all other models across seeds in:
 
   * OOD generalization
@@ -93,7 +93,7 @@ UCES provides a principled, single-value indicator for selecting models that are
 
 
 ---
-#### The experimental code is available in the folder: [CODE](./CODE) and the detailed explanation is in the report: [Report](./Report)
+#### The experimental code is available in the folder: [CODE](./Code) and the detailed explanation is in the report: [REPORT](./Report.pdf)
 
 
 
