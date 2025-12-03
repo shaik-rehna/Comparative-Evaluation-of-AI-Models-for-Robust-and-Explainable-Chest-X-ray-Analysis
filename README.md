@@ -93,7 +93,7 @@ UCES provides a principled, single-value indicator for selecting models that are
 
 
 ---
-#### The experimental code is available in the folder: [CODE](./Code) and the detailed explanation is in the report: [REPORT](./Report.pdf)
+#### The experimental code is available in the folder: [Code](./Code) and a detailed explanation is in the report: [REPORT](./Report.pdf)
 
 
 
