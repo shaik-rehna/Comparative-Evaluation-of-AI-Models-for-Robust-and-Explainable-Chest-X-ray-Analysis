@@ -1,7 +1,9 @@
 # Comparative Evaluation of AI Models for Robust and Explainable Chest X-ray Analysis 
 ### EE 782 Project
-* `Yashaswini K (22B3911)`
-* `Rehna Afroz Shaik (22B3932)`
+
+#### Team Members:
+ * `Yashaswini K`
+ * `Rehna Afroz Shaik`
 
 ---
 Chest X-ray interpretation is a critical component of clinical diagnostics, but deep learning models often suffer from inconsistent reliability and limited explainability. This project presents a comprehensive benchmark of **four widely used architectures**:
