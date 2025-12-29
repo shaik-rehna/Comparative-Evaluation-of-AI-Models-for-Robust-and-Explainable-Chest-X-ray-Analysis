@@ -1,5 +1,6 @@
 # Comparative Evaluation of AI Models for Robust and Explainable Chest X-ray Analysis 
-### Project (EE 782 Advanced Topics in Machine Learning) 
+### Project
+#### Course: EE 782 Advanced Topics in Machine Learning
 
 #### Team Members:
  * `Yashaswini K`
