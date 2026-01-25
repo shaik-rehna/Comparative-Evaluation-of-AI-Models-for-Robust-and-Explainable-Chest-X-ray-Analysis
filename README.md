@@ -2,10 +2,6 @@
 ### Project
 #### EE 782 - Advanced Topics in Machine Learning
 
-#### Team Members:
- * `Yashaswini K`
- * `Rehna Afroz Shaik`
-
 ---
 Chest X-ray interpretation is a critical component of clinical diagnostics, but deep learning models often suffer from inconsistent reliability and limited explainability. This project presents a comprehensive benchmark of **four widely used architectures**:
 
